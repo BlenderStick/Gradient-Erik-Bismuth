@@ -6,5 +6,5 @@ public interface ForceField {
 	public int startInteraction();
 	public int endInteraction();
 	public void nextInteraction();
-	public void endSimulation();
-}
+	public void endSimulation(); 
+} 
