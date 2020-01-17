@@ -7,4 +7,4 @@ public interface ForceField {
 	public int endInteraction();
 	public void nextInteraction();
 	public void endSimulation();
-}
+} 
